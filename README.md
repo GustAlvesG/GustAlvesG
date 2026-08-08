@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gustavo%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Infraestrutura%20•%20Desenvolvimento%20•%20Automação&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/GustAlvesG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Sysadmin+que+programa+e+dev+que+administra+servidores;Laravel+%7C+Node.js+%7C+Python+%7C+SQL+Server;Hyper-V%2C+Linux%2C+redes+e+automa%C3%A7%C3%A3o+com+IoT;Se+d%C3%A1+pra+automatizar%2C+eu+automatizo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=Sysadmin+que+programa+e+dev+que+administra+servidores;Laravel+%7C+Node.js+%7C+Python+%7C+SQL+Server;Hyper-V%2C+Linux%2C+redes+e+automa%C3%A7%C3%A3o+com+IoT;Se+d%C3%A1+pra+automatizar%2C+eu+automatizo." alt="Typing SVG" />
 </a>
 
 <br/>
