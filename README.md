@@ -51,7 +51,7 @@ curiosidade: Meu ambiente vai do Hyper-V ao Tailwind — na mesma semana.
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/GustAlvesG/GustAlvesG/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 ---
